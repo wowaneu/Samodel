@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone4 PresetVer="6" PluginVer="4000" PluginBuild="156" Comments="A starting point for house music.  Compress adjusts Dynamics module thresholds, Smash maximizes volume while adjusting the limiter&apos;s Character." LastUsed="1228704891" LastModified="1229453334">
+    <Sliders>
+        <Slider Name="Compress" SliderID="0" Min="0.000000" Max="100.000000" Default="89.583336" Value="89.583336" Scale="0" />
+        <Slider Name="Smash" SliderID="1" Min="0.000000" Max="100.000000" Default="42.083332" Value="42.083332" Scale="0" />
+    </Sliders>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="0" Data="AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD=" />
+    </Global>
+    <Meters Enabled="1" />
+    <CrossOver Enabled="1">
+        <Param Type="Float" ElementID="3" ParamID="1" Value="213.81459045" />
+        <Param Type="Float" ElementID="3" ParamID="2" Value="2237.14941406" />
+        <Param Type="Float" ElementID="3" ParamID="3" Value="10080.90527344" />
+        <Param Type="UInt" ElementID="3" ParamID="0" Value="1" />
+    </CrossOver>
+    <EQ Enabled="1" />
+    <Reverb Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param Type="Float" ElementID="8" ParamID="1" SliderID="1" Start="0.00000000" End="-6.00000000" Scale="0" />
+        <Param Type="Float" ElementID="8" ParamID="6" SliderID="1" Start="0.00000000" End="3.00000000" Scale="0" />
+        <Param Type="UInt" ElementID="8" ParamID="0" Value="3" />
+        <Param Type="Bool" ElementID="8" ParamID="0" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="5" Value="1" />
+    </Maximizer>
+    <Exciter Enabled="1" />
+    <Dynamics Enabled="1">
+        <Param Type="Float" ElementID="5" ParamID="7" Value="1.48936272" />
+        <Param Type="Float" ElementID="5" ParamID="8" Value="1.48936272" />
+        <Param Type="Float" ElementID="5" ParamID="9" Value="3.19148898" />
+        <Param Type="Float" ElementID="5" ParamID="10" Value="3.61701965" />
+        <Param Type="Float" ElementID="5" ParamID="32" SliderID="0" Start="0.00000000" End="-20.60000038" Scale="0" />
+        <Param Type="Float" ElementID="5" ParamID="33" SliderID="0" Start="0.00000000" End="-29.00000000" Scale="0" />
+        <Param Type="Float" ElementID="5" ParamID="34" SliderID="0" Start="0.00000000" End="-30.00000000" Scale="0" />
+        <Param Type="Float" ElementID="5" ParamID="36" Value="2.24224710" />
+        <Param Type="Float" ElementID="5" ParamID="37" Value="2.35470772" />
+        <Param Type="Float" ElementID="5" ParamID="38" Value="3.65779114" />
+        <Param Type="Float" ElementID="5" ParamID="40" Value="12.57004166" />
+        <Param Type="Float" ElementID="5" ParamID="41" Value="11.49989700" />
+        <Param Type="Float" ElementID="5" ParamID="42" Value="6.41754532" />
+        <Param Type="Float" ElementID="5" ParamID="44" Value="73.99267578" />
+        <Param Type="Float" ElementID="5" ParamID="45" Value="64.17559814" />
+        <Param Type="Float" ElementID="5" ParamID="79" SliderID="0" Start="0.00000000" End="-8.00000000" Scale="0" />
+        <Param Type="Float" ElementID="5" ParamID="87" Value="18.20661926" />
+        <Param Type="Bool" ElementID="5" ParamID="0" Value="0" />
+    </Dynamics>
+    <Imager Enabled="1" />
+    <Dither Enabled="1" />
+</Ozone4>

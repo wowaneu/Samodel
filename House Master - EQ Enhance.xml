@@ -1,0 +1,42 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone4 PresetVer="6" PluginVer="4000" PluginBuild="156" Comments="Starting point for EQing a House track. Adjust nodes according to material." LastUsed="1228704903" LastModified="1229453714">
+    <Sliders>
+        <Slider Name="Enhance EQ" SliderID="0" Min="0.000000" Max="100.000000" Default="53.750000" Value="53.750000" Scale="0" />
+        <Slider Name="Loudness" SliderID="1" Min="0.000000" Max="100.000000" Default="17.500000" Value="17.500000" Scale="0" />
+    </Sliders>
+    <Global Enabled="1">
+        <ExtraBytes ElementID="0" Data="AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD=" />
+    </Global>
+    <Meters Enabled="1" />
+    <CrossOver Enabled="1">
+        <Param Type="UInt" ElementID="3" ParamID="1" Value="1" />
+    </CrossOver>
+    <EQ Enabled="1">
+        <Param Type="Float" ElementID="1" ParamID="1" Value="30.10302734" />
+        <Param Type="Float" ElementID="1" ParamID="2" Value="116.70763397" />
+        <Param Type="Float" ElementID="1" ParamID="4" Value="468.75024414" />
+        <Param Type="Float" ElementID="1" ParamID="7" Value="6472.94824219" />
+        <Param Type="Float" ElementID="1" ParamID="9" Value="-0.02678096" />
+        <Param Type="Float" ElementID="1" ParamID="10" SliderID="0" Start="0.00000000" End="10.00000000" Scale="0" />
+        <Param Type="Float" ElementID="1" ParamID="12" Value="-2.43749666" />
+        <Param Type="Float" ElementID="1" ParamID="15" SliderID="0" Start="0.00000000" End="8.00000000" Scale="0" />
+        <Param Type="Float" ElementID="1" ParamID="17" Value="0.99559838" />
+        <Param Type="Float" ElementID="1" ParamID="18" Value="1.34851098" />
+        <Param Type="Float" ElementID="1" ParamID="20" Value="1.74664354" />
+        <Param Type="Float" ElementID="1" ParamID="23" Value="0.72554350" />
+        <Param Type="UInt" ElementID="1" ParamID="3" Value="4" />
+        <Param Type="Bool" ElementID="1" ParamID="0" Value="0" />
+    </EQ>
+    <Reverb Enabled="1" />
+    <Maximizer Enabled="1">
+        <Param Type="Float" ElementID="8" ParamID="1" SliderID="1" Start="0.00000000" End="-6.00000000" Scale="0" />
+        <Param Type="Float" ElementID="8" ParamID="2" Value="-0.10791361" />
+        <Param Type="Float" ElementID="8" ParamID="6" Value="1.17647064" />
+        <Param Type="Bool" ElementID="8" ParamID="0" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="5" Value="1" />
+    </Maximizer>
+    <Exciter Enabled="1" />
+    <Dynamics Enabled="1" />
+    <Imager Enabled="1" />
+    <Dither Enabled="1" />
+</Ozone4>

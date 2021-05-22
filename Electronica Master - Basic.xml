@@ -1,0 +1,109 @@
+<?xml version="1.0" standalone="yes" ?>
+<Ozone4 PresetVer="6" PluginVer="4000" PluginBuild="156" Comments="For loud club playback, dips hi-mid (pain) and twists bass mud to thump" LastUsed="1228706031" LastModified="1229458238">
+    <Sliders />
+    <Global Enabled="1">
+        <ExtraBytes ElementID="0" Data="AAAAAAEAAAACAAAAAwAAAAQAAAAFAAAABgAAAAcAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD=" />
+    </Global>
+    <Meters Enabled="1" />
+    <CrossOver Enabled="1">
+        <Param Type="Float" ElementID="3" ParamID="1" Value="120.65834808" />
+        <Param Type="Float" ElementID="3" ParamID="2" Value="5977.84277344" />
+        <Param Type="Float" ElementID="3" ParamID="3" Value="11337.75390625" />
+    </CrossOver>
+    <EQ Enabled="1">
+        <Param Type="Float" ElementID="1" ParamID="1" Value="20.25815392" />
+        <Param Type="Float" ElementID="1" ParamID="2" Value="50.01217270" />
+        <Param Type="Float" ElementID="1" ParamID="3" Value="106.54930878" />
+        <Param Type="Float" ElementID="1" ParamID="4" Value="268.36657715" />
+        <Param Type="Float" ElementID="1" ParamID="6" Value="4450.60058594" />
+        <Param Type="Float" ElementID="1" ParamID="7" Value="7754.73486328" />
+        <Param Type="Float" ElementID="1" ParamID="8" Value="19871.62304688" />
+        <Param Type="Float" ElementID="1" ParamID="9" Value="0.45536220" />
+        <Param Type="Float" ElementID="1" ParamID="10" Value="-0.99106729" />
+        <Param Type="Float" ElementID="1" ParamID="11" Value="-0.99106729" />
+        <Param Type="Float" ElementID="1" ParamID="12" Value="0.29464692" />
+        <Param Type="Float" ElementID="1" ParamID="14" Value="-0.99106729" />
+        <Param Type="Float" ElementID="1" ParamID="15" Value="-1.15178251" />
+        <Param Type="Float" ElementID="1" ParamID="16" Value="2.38393497" />
+        <Param Type="Float" ElementID="1" ParamID="17" Value="1.00000000" />
+        <Param Type="Float" ElementID="1" ParamID="18" Value="4.09045410" />
+        <Param Type="Float" ElementID="1" ParamID="19" Value="12.00000000" />
+        <Param Type="Float" ElementID="1" ParamID="20" Value="12.00000000" />
+        <Param Type="Float" ElementID="1" ParamID="22" Value="0.78011280" />
+        <Param Type="Float" ElementID="1" ParamID="23" Value="0.99559826" />
+        <Param Type="Float" ElementID="1" ParamID="24" Value="0.52718019" />
+        <Param Type="UInt" ElementID="1" ParamID="0" Value="1" />
+        <Param Type="Bool" ElementID="1" ParamID="0" Value="0" />
+    </EQ>
+    <Reverb Enabled="1">
+        <Param Type="Float" ElementID="2" ParamID="2" Value="8.27067661" />
+        <Param Type="Float" ElementID="2" ParamID="3" Value="0.69194627" />
+        <Param Type="Float" ElementID="2" ParamID="6" Value="22.41559029" />
+        <Param Type="Float" ElementID="2" ParamID="10" Value="2.17449665" />
+        <Param Type="Bool" ElementID="2" ParamID="0" Value="0" />
+    </Reverb>
+    <Maximizer Enabled="1">
+        <Param Type="Float" ElementID="8" ParamID="1" Value="-3.02158237" />
+        <Param Type="Float" ElementID="8" ParamID="2" Value="-0.25179863" />
+        <Param Type="Float" ElementID="8" ParamID="6" Value="3.45588231" />
+        <Param Type="Bool" ElementID="8" ParamID="0" Value="0" />
+        <Param Type="Bool" ElementID="8" ParamID="5" Value="1" />
+    </Maximizer>
+    <Exciter Enabled="1">
+        <Param Type="Float" ElementID="6" ParamID="3" Value="0.35141608" />
+        <Param Type="Float" ElementID="6" ParamID="4" Value="0.82621825" />
+        <Param Type="Float" ElementID="6" ParamID="5" Value="0.00000000" />
+        <Param Type="Float" ElementID="6" ParamID="6" Value="0.00000000" />
+        <Param Type="Float" ElementID="6" ParamID="7" Value="3.75885034" />
+        <Param Type="Float" ElementID="6" ParamID="8" Value="8.16326523" />
+        <Param Type="Bool" ElementID="6" ParamID="0" Value="0" />
+    </Exciter>
+    <Dynamics Enabled="1">
+        <Param Type="Float" ElementID="5" ParamID="31" Value="-22.44603920" />
+        <Param Type="Float" ElementID="5" ParamID="32" Value="-10.28776741" />
+        <Param Type="Float" ElementID="5" ParamID="33" Value="-22.44603920" />
+        <Param Type="Float" ElementID="5" ParamID="34" Value="-16.83453178" />
+        <Param Type="Float" ElementID="5" ParamID="35" Value="2.03318262" />
+        <Param Type="Float" ElementID="5" ParamID="36" Value="2.08354616" />
+        <Param Type="Float" ElementID="5" ParamID="37" Value="1.93607795" />
+        <Param Type="Float" ElementID="5" ParamID="38" Value="1.44344938" />
+        <Param Type="Float" ElementID="5" ParamID="39" Value="76.92282104" />
+        <Param Type="Float" ElementID="5" ParamID="40" Value="64.44255829" />
+        <Param Type="Float" ElementID="5" ParamID="41" Value="47.98493958" />
+        <Param Type="Float" ElementID="5" ParamID="42" Value="28.30019379" />
+        <Param Type="Float" ElementID="5" ParamID="43" Value="45.04223633" />
+        <Param Type="Float" ElementID="5" ParamID="44" Value="73.99267578" />
+        <Param Type="Float" ElementID="5" ParamID="45" Value="54.52642822" />
+        <Param Type="Float" ElementID="5" ParamID="46" Value="104.48089600" />
+        <Param Type="Float" ElementID="5" ParamID="81" Value="-22.29999924" />
+        <Param Type="Float" ElementID="5" ParamID="83" Value="1.00000000" />
+        <Param Type="Float" ElementID="5" ParamID="88" Value="1.75519943" />
+        <Param Type="Float" ElementID="5" ParamID="92" Value="54.52642822" />
+        <Param Type="Float" ElementID="5" ParamID="104" Value="2.65577698" />
+        <Param Type="Float" ElementID="5" ParamID="105" Value="2.65577698" />
+        <Param Type="Float" ElementID="5" ParamID="106" Value="2.65577698" />
+        <Param Type="Float" ElementID="5" ParamID="108" Value="64.17559814" />
+        <Param Type="Float" ElementID="5" ParamID="109" Value="64.17559814" />
+        <Param Type="Float" ElementID="5" ParamID="110" Value="64.17559814" />
+        <Param Type="Float" ElementID="5" ParamID="127" Value="-37.41007233" />
+        <Param Type="Float" ElementID="5" ParamID="128" Value="-31.79856110" />
+        <Param Type="Float" ElementID="5" ParamID="129" Value="-44.89208603" />
+        <Param Type="Float" ElementID="5" ParamID="130" Value="-43.02158356" />
+        <Param Type="Float" ElementID="5" ParamID="136" Value="33.89401245" />
+        <Param Type="Bool" ElementID="5" ParamID="0" Value="0" />
+        <Param Type="Bool" ElementID="5" ParamID="7" Value="0" />
+        <Param Type="Bool" ElementID="5" ParamID="8" Value="0" />
+        <Param Type="Bool" ElementID="5" ParamID="13" Value="1" />
+    </Dynamics>
+    <Imager Enabled="1">
+        <Param Type="Float" ElementID="7" ParamID="2" Value="0.16666663" />
+        <Param Type="Float" ElementID="7" ParamID="3" Value="0.25000000" />
+        <Param Type="Float" ElementID="7" ParamID="4" Value="0.33333337" />
+        <Param Type="Bool" ElementID="7" ParamID="0" Value="0" />
+    </Imager>
+    <Dither Enabled="1">
+        <Param Type="Bool" ElementID="9" ParamID="0" Value="1" />
+        <Param Type="Bool" ElementID="10" ParamID="0" Value="1" />
+        <Param Type="Bool" ElementID="10" ParamID="1" Value="1" />
+    </Dither>
+</Ozone4>
